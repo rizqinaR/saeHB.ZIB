@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# saeHB.zinb
+# saeHB.ZIB
 
 <!-- badges: start -->
 <!-- badges: end -->
