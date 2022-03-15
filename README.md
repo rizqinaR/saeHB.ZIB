@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# saeHB.zinb
+# saeHB.ZIB
 
 <!-- badges: start -->
 <!-- badges: end -->
@@ -101,14 +101,7 @@ result$refVar
 
 ## References
 
-*W. Bodromurti, “ZERO INFLATED BINOMIAL MODELS IN SMALL AREA ESTIMATION
-WITH APPLICATION TO INFANT MORTALITY DATA IN INDONESIA”, in Thesis IPB
-University Scientific Repository, 2017. *Matranga, D, Firenze, A, Vullo,
-A. Can bayesian models play a role in dental caries epidemiology?
-Evidence from an application to the BELCAP data set. Community Dent Oral
-Epidemiol 2013; 41: 473– 480. © 2013 John Wiley & Sons A/S. Published by
-John Wiley & Sons Ltd. *B. Hartono, “Kajian Pendugaan Area Kecil dengan
-Model Zero Inflated Binomial (Studi Kasus Pengangguran di Provinsi
-Jambi)”, in Thesis IPB University Scientific Repository, 2018. *Hall DB.
-Zero-inflated Poisson and binomial regression with random effects: a
-case study. Biometrics 2000;56(4):1030–9.
+*W. Bodromurti, “ZERO INFLATED BINOMIAL MODELS IN SMALL AREA ESTIMATION WITH APPLICATION TO INFANT MORTALITY DATA IN INDONESIA”, in Thesis IPB University Scientific Repository, 2017. 
+*Matranga, D, Firenze, A, Vullo, A. Can bayesian models play a role in dental caries epidemiology? Evidence from an application to the BELCAP data set. Community Dent Oral Epidemiol 2013; 41: 473– 480. © 2013 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd. 
+*B. Hartono, “Kajian Pendugaan Area Kecil dengan Model Zero Inflated Binomial (Studi Kasus Pengangguran di Provinsi Jambi)”, in Thesis IPB University Scientific Repository, 2018. 
+*Hall DB. Zero-inflated Poisson and binomial regression with random effects: a case study. Biometrics 2000;56(4):1030–9.
