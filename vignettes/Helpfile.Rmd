@@ -1,0 +1,12 @@
+---
+title: "saeHB.ZIB"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Helpfile}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r setup}
+library(saeHB.ZIB)
+```
